@@ -1,0 +1,8 @@
+.vscode/
+.vscode-server/
+.local/
+.cache/
+Downloads/
+node_modules/
+__pycache__/
+*.log
